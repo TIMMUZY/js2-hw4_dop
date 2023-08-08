@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(43, 55, 51);
+    color: rgb(204, 160, 160);
+}
+
+.ent{
+    width: 35%;
+    margin: 25px auto;
+   
+    
+}
+
+.contain{
+    width: 100%;
+    margin: 25px auto;
+    display: flex;
+    flex-wrap: wrap;
+    
+
+    
+}
+
+.wrapper{
+    margin: 40px;
+    padding: 30px;
+    width: 400px;
+    border: 1px #ffe607 solid;
+    border-radius: 8px;
+
+    
+}
+
+
+
+
